@@ -1,0 +1,7 @@
+| Operation        | Method | URL                                |
+| ---------------- | ------ | ---------------------------------- |
+| Get all recipes  | GET    | `http://localhost:7000/recipe`     |
+| Get recipe by ID | GET    | `http://localhost:7000/recipe/:id` |
+| Edit recipe      | PUT    | `http://localhost:7000/recipe/:id` |
+| Delete recipe    | DELETE | `http://localhost:7000/recipe/:id` |
+| Add recipe       | POST   | `http://localhost:7000/recipe`     |
